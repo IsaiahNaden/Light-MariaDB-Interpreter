@@ -1,0 +1,29 @@
+members:
+isaiah
+keh wen kai
+Fahad Abdulaziz Alghamdi
+
+getline
+if CREATE
+	create output file
+else if DATABASES
+	print out file path
+else if CREATE TABLE
+	read line value 
+	save value to vector
+else if TABLES
+	print table name
+else if INSERT INTO
+	read line value
+	save value to vector as row
+else if VIEW TABLE
+	loop through table row
+	display row in csv format
+else if SELECT*FROM
+	print table
+
+
+
+
+
+
