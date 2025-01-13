@@ -1,0 +1,3 @@
+CREATE fileOutput2.txt;
+DATABASES;
+
